@@ -101,7 +101,6 @@ catkin_package(
     # INCLUDE_DIRS include
     LIBRARIES offb
     CATKIN_DEPENDS roscpp
-    DEPENDS system_lib
 )
 
 ###########
